@@ -6,24 +6,24 @@ Develop a minimal full-stack application that demonstrates your capabilities in 
 
 ### Prerequisites
 
-- Python (version 3.8+ recommended)
+- Python (version 3.10+ recommended)
 - Virtualenv
 - MySQL server (installed via XAMPP)
 
 ### Installation
 
-1. **Clone the repository:**
-
-    ```bash
-    git clone <repository-url>
-    cd projectfolder
-    ```
-
-2. **Create and activate a virtual environment:**
+1. **Create and activate a virtual environment:**
 
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+2. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/Nitin1692/Zentratech-Server.git
+    cd projectfolder
     ```
 
 3. **Install dependencies:**
